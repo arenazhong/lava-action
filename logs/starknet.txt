@@ -30,3 +30,5 @@
 {"jsonrpc":"2.0","id":"\"1\"","result":966646}
 {"jsonrpc":"2.0","id":"\"1\"","result":627517}
 {"jsonrpc":"2.0","id":"\"1\"","result":966647}
+{"jsonrpc":"2.0","id":"1","result":627522}
+{"jsonrpc":"2.0","id":"\"1\"","result":966650}
