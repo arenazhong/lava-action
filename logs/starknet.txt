@@ -1,2 +1,4 @@
 {"jsonrpc":"2.0","id":"1","result":627444}
 {"jsonrpc":"2.0","id":"\"1\"","result":966620}
+{"jsonrpc":"2.0","id":"1","result":627445}
+{"jsonrpc":"2.0","id":"1","result":966621}
