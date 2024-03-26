@@ -10,7 +10,7 @@ RPC_URLS=(
 OUTPUT_DIR="logs"
 
 for RPC_URL in "${RPC_URLS[@]}"; do
-    near_data=$(curl -s -H "Content-Type: application/json" -X POST --data '{"jsonrpc":"2.0","method":"block","id":"HappyCuanAirdrop","params":{"finality":"final"}}' "$RPC_TEST_URL")
+    near_data=$(curl -s -H "Content-Type: application/json" -X POST --data '{"jsonrpc":"2.0","method":"block","id":"HappyCuanAirdrop","params":{"finality":"final"}}' "$RPC_URL")
 
     if [ $? -eq 0 ]; then
         if [ ! -d "$OUTPUT_DIR" ]; then
