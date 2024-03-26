@@ -3,8 +3,6 @@
 RPC_URLS=(
     "https://eth1.lava.build/lava-referer-d169b15b-5984-454f-9b1f-f908bae1443e/",
     "https://eth1.lava.build/lava-referer-f0e1b816-37da-4a4c-86aa-d4082739bb3d/",
-    
-
 )
 
 OUTPUT_DIR="logs"
