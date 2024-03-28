@@ -239,3 +239,8 @@
 {"jsonrpc":"2.0","id":1,"result":"0x47fa6b59e"}
 {"jsonrpc":"2.0","id":1,"result":"0x47fa6b59e"}
 {"jsonrpc":"2.0","id":1,"result":"0x47fa6b59e"}
+{"error":"{\"Error_GUID\":\"4593845286401937079\",\"Error\":\"Failed all retries {GUID:4593845286401937079,error:No pairings available.,chain_id:ETH1}\"}"}
+{"error":"{\"Error_GUID\":\"1341519105592393369\",\"Error\":\"Failed all retries {GUID:1341519105592393369,error:No pairings available.,chain_id:ETH1}\"}"}
+{"jsonrpc":"2.0","id":1,"result":"0x421163d79"}
+{"jsonrpc":"2.0","id":1,"result":"0x421163d79"}
+{"error":"{\"Error_GUID\":\"3595765612428136249\",\"Error\":\"Failed all retries {GUID:3595765612428136249,error:No pairings available.,chain_id:ETH1}\"}"}
