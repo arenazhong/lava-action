@@ -1454,3 +1454,8 @@
 {"error":"{\"Error_GUID\":\"6468615431449245334\",\"Error\":\"Failed all retries {GUID:6468615431449245334,error:No pairings available.,chain_id:ETH1}\"}"}
 {"error":"{\"Error_GUID\":\"3861857300865943219\",\"Error\":\"Failed all retries {GUID:3861857300865943219,error:No pairings available.,chain_id:ETH1}\"}"}
 {"error":"{\"Error_GUID\":\"1581532172811100457\",\"Error\":\"Failed all retries {GUID:1581532172811100457,error:No pairings available.,chain_id:ETH1}\"}"}
+{"jsonrpc":"2.0","id":1,"result":"0x57d601aed"}
+{"jsonrpc":"2.0","id":1,"result":"0x57d601aed"}
+{"jsonrpc":"2.0","id":1,"result":"0x57d601aed"}
+{"jsonrpc":"2.0","id":1,"result":"0x57d601aed"}
+{"jsonrpc":"2.0","id":1,"result":"0x57d601aed"}
