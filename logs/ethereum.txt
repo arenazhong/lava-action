@@ -1429,3 +1429,8 @@
 {"jsonrpc":"2.0","id":1,"result":"0x61d8f4afe"}
 {"jsonrpc":"2.0","id":1,"result":"0x61d8f4afe"}
 {"jsonrpc":"2.0","id":1,"result":"0x61d8f4afe"}
+{"jsonrpc":"2.0","id":1,"result":"0x63624b882"}
+{"jsonrpc":"2.0","id":1,"result":"0x63624b882"}
+{"jsonrpc":"2.0","id":1,"result":"0x63624b882"}
+{"error":"{\"Error_GUID\":\"13570214470712948838\",\"Error\":\"Failed all retries {GUID:13570214470712948838,error:rpc error: code = Unavailable desc = unexpected HTTP status code received from server: 502 (Bad Gateway); transport: received unexpected content-type \\\"text/html\\\",chain_id:ETH1}\"}"}
+{"jsonrpc":"2.0","id":1,"result":"0x4abc47ea5"}
